@@ -25,3 +25,10 @@ To understand Linux operating system commands and system information.
 
 ## Conclusion
 Linux commands help users manage files, directories and system information through the terminal.Linux Commands and System Profile
+
+
+## Practical Evidence
+
+Linux command execution screenshots are available below.
+
+[View Linux Screenshots](../Screenshots/)
