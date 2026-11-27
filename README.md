@@ -7,6 +7,8 @@ Welcome to my Developer Portfolio! This repository showcases the technical skill
 **Student Details**
 - Name: Dharika
 - Course: B.Tech CSE (AI & ML)
+- Roll No: 2601730396
+- Faculty: Mr Hemanth Billa
 - University: K.R. Mangalam University
 - Project: Semester Capstone Project
 
